@@ -1,0 +1,15 @@
+C:\Users\rares\source\repos\Prop Hunt Teardown\Prop Hunt Teardown\bin\Debug\net6.0\Prop Hunt Teardown.exe
+C:\Users\rares\source\repos\Prop Hunt Teardown\Prop Hunt Teardown\bin\Debug\net6.0\Prop Hunt Teardown.deps.json
+C:\Users\rares\source\repos\Prop Hunt Teardown\Prop Hunt Teardown\bin\Debug\net6.0\Prop Hunt Teardown.runtimeconfig.json
+C:\Users\rares\source\repos\Prop Hunt Teardown\Prop Hunt Teardown\bin\Debug\net6.0\Prop Hunt Teardown.dll
+C:\Users\rares\source\repos\Prop Hunt Teardown\Prop Hunt Teardown\bin\Debug\net6.0\Prop Hunt Teardown.pdb
+C:\Users\rares\source\repos\Prop Hunt Teardown\Prop Hunt Teardown\obj\Debug\net6.0\Prop Hunt Teardown.csproj.AssemblyReference.cache
+C:\Users\rares\source\repos\Prop Hunt Teardown\Prop Hunt Teardown\obj\Debug\net6.0\Prop Hunt Teardown.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rares\source\repos\Prop Hunt Teardown\Prop Hunt Teardown\obj\Debug\net6.0\Prop Hunt Teardown.AssemblyInfoInputs.cache
+C:\Users\rares\source\repos\Prop Hunt Teardown\Prop Hunt Teardown\obj\Debug\net6.0\Prop Hunt Teardown.AssemblyInfo.cs
+C:\Users\rares\source\repos\Prop Hunt Teardown\Prop Hunt Teardown\obj\Debug\net6.0\Prop Hunt Teardown.csproj.CoreCompileInputs.cache
+C:\Users\rares\source\repos\Prop Hunt Teardown\Prop Hunt Teardown\obj\Debug\net6.0\Prop Hunt Teardown.dll
+C:\Users\rares\source\repos\Prop Hunt Teardown\Prop Hunt Teardown\obj\Debug\net6.0\refint\Prop Hunt Teardown.dll
+C:\Users\rares\source\repos\Prop Hunt Teardown\Prop Hunt Teardown\obj\Debug\net6.0\Prop Hunt Teardown.pdb
+C:\Users\rares\source\repos\Prop Hunt Teardown\Prop Hunt Teardown\obj\Debug\net6.0\Prop Hunt Teardown.genruntimeconfig.cache
+C:\Users\rares\source\repos\Prop Hunt Teardown\Prop Hunt Teardown\obj\Debug\net6.0\ref\Prop Hunt Teardown.dll
